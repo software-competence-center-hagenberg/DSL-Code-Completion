@@ -1,17 +1,15 @@
 # DSL-Code-Completion
-DSL-Code-Completion
-
 This repository contains the preprocessing and training code for the paper "Using AI-Based Code Completion for Domain Specific Languages". 
 We investigated machine learning architectures and adapted two architectures to fit TTI input files. The first one is Pythia. 
 
-Svyatkovskiy, A., Zhao, Y., Fu, S., Sundaresan, N.: Pythia: AI-assisted code completion system. 
+Svyatkovskiy, A., Zhao, Y., Fu, S., Sundaresan, N.: Pythia: AI-assisted code completion system. </br>
 In: Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining. p. 2727–2735. KDD ’19, Association
 for Computing Machinery, New York, NY, USA (2019)
 
 The training and preprocessing code for the pythia implementation is based on https://github.com/motykatomasz/Pythia-AI-code-completion.
 Second, we evaluated Code Completion Neural Attention and Pointer Networks (NAPN).
 
-Li, J., Wang, Y., King, I., Lyu, M.R.: Code completion with neural attention and pointer networks. 
+Li, J., Wang, Y., King, I., Lyu, M.R.: Code completion with neural attention and pointer networks. </br>
 In: Proceedings of the 27th International Joint Conference on
 Artificial Intelligence. p. 4159–4165. IJCAI’18, AAAI Press (2018)
 
